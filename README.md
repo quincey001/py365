@@ -18,3 +18,6 @@
 
 ## 3. Data structure in python
 
+## 4. Algorithms in python 
+
+
