@@ -2,7 +2,7 @@
  
 | # | Title | Link | 
 | --- | --- | --- | 
-| 1 | Primitive data type | [python][https://github.com/quincey001/py365/blob/main/1%20Data%20Type%20da5fb210641940459e0b9c8554347ca7.md] | 
+| 1 | Primitive data type | [python](https://github.com/quincey001/py365/blob/main/1%20Data%20Type%20da5fb210641940459e0b9c8554347ca7.md) | 
 | 2 | Scope & Namespace | [python]() | 
 | 3 | Class attribute & instance attribute | [python]() |  
 | 4 | class | [python]() | 
